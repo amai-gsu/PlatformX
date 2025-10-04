@@ -1,0 +1,1315 @@
+{
+    "conv-bn-relu": {
+        "H747EF": {
+            "energy": "6.856"
+        },
+        "V6UC43": {
+            "energy": "2.981"
+        },
+        "DMW5KD": {
+            "energy": "3.001"
+        },
+        "HPPS7K": {
+            "energy": "18.142"
+        },
+        "1961KU": {
+            "energy": "0.3"
+        },
+        "Y95D3U": {
+            "energy": "17.472"
+        },
+        "ZS1C2D": {
+            "energy": "12.38"
+        },
+        "GE9D17": {
+            "energy": "1.947"
+        },
+        "LYFS71": {
+            "energy": "27.261"
+        },
+        "56FNBO": {
+            "energy": "2.751"
+        },
+        "GCLNXH": {
+            "energy": "1.837"
+        },
+        "UJCNME": {
+            "energy": "1.995"
+        },
+        "QO3DVS": {
+            "energy": "0.934"
+        },
+        "H5BZZO": {
+            "energy": "1.217"
+        },
+        "HMEI9N": {
+            "energy": "17.927"
+        },
+        "1X4YK4": {
+            "energy": "0.01"
+        },
+        "JZINIE": {
+            "energy": "3.71"
+        },
+        "TS0UHM": {
+            "energy": "9.495"
+        },
+        "85YDUC": {
+            "energy": "3.001"
+        },
+        "AG5531": {
+            "energy": "9.005"
+        },
+        "B6T0KN": {
+            "energy": "0.388"
+        },
+        "B37G2M": {
+            "energy": "24.771"
+        },
+        "Q370ZG": {
+            "energy": "0.321"
+        },
+        "GWW04H": {
+            "energy": "3.515"
+        },
+        "WA94CP": {
+            "energy": "1.627"
+        },
+        "D6419S": {
+            "energy": "0.003"
+        },
+        "3P7G7D": {
+            "energy": "0.195"
+        },
+        "3CM6V8": {
+            "energy": "0.261"
+        },
+        "QKSLQA": {
+            "energy": "0.81"
+        },
+        "LOUOOG": {
+            "energy": "0.136"
+        },
+        "AUL4DR": {
+            "energy": "0.277"
+        },
+        "X1T8TA": {
+            "energy": "12.615"
+        },
+        "9MX05X": {
+            "energy": "0.072"
+        },
+        "WJDRX0": {
+            "energy": "0.474"
+        },
+        "GRO097": {
+            "energy": "72.445"
+        },
+        "KWRXGF": {
+            "energy": "7.367"
+        },
+        "STBEBH": {
+            "energy": "54.923"
+        },
+        "A1PVW5": {
+            "energy": "3.107"
+        },
+        "CNEK10": {
+            "energy": "25.052"
+        },
+        "PVJ03Y": {
+            "energy": "2.874"
+        },
+        "KGMD9H": {
+            "energy": "1.607"
+        },
+        "TGH63N": {
+            "energy": "0.823"
+        },
+        "RCQKRF": {
+            "energy": "0.597"
+        },
+        "HHGCYD": {
+            "energy": "11.162"
+        },
+        "L410KO": {
+            "energy": "1.013"
+        },
+        "W5ZOXN": {
+            "energy": "2.029"
+        },
+        "OUEBT3": {
+            "energy": "16.563"
+        },
+        "60S6XO": {
+            "energy": "0.721"
+        },
+        "P4MRMR": {
+            "energy": "1.98"
+        },
+        "MQLSIO": {
+            "energy": "9.828"
+        },
+        "E0R10D": {
+            "energy": "0.763"
+        },
+        "AGW97B": {
+            "energy": "1.785"
+        },
+        "9YFHVX": {
+            "energy": "0.782"
+        },
+        "ULTU6T": {
+            "energy": "1.123"
+        },
+        "0ERONA": {
+            "energy": "0.727"
+        },
+        "OWL1JT": {
+            "energy": "1.306"
+        },
+        "JVO3CL": {
+            "energy": "2.755"
+        },
+        "2KP46H": {
+            "energy": "3.944"
+        },
+        "HEQSDN": {
+            "energy": "1.128"
+        },
+        "X3Q80O": {
+            "energy": "1.85"
+        },
+        "EVFTDO": {
+            "energy": "11.774"
+        },
+        "IVV8KJ": {
+            "energy": "71.453"
+        },
+        "RKII17": {
+            "energy": "99.207"
+        },
+        "QCNO8H": {
+            "energy": "2.437"
+        },
+        "17ZG6S": {
+            "energy": "53.294"
+        },
+        "3W48MW": {
+            "energy": "3.385"
+        },
+        "F3PWET": {
+            "energy": "27.043"
+        },
+        "BBA28V": {
+            "energy": "26.563"
+        },
+        "8G1OYX": {
+            "energy": "38.53"
+        },
+        "EUTPGQ": {
+            "energy": "0.7"
+        },
+        "NS1JAF": {
+            "energy": "0.344"
+        },
+        "LVVVDE": {
+            "energy": "4.295"
+        },
+        "9TZ5IW": {
+            "energy": "0.004"
+        },
+        "GMREDW": {
+            "energy": "6.959"
+        },
+        "CRBNC5": {
+            "energy": "0.131"
+        },
+        "FEN6U1": {
+            "energy": "64.764"
+        },
+        "TPLUCK": {
+            "energy": "1.11"
+        },
+        "L9EI9K": {
+            "energy": "4.503"
+        },
+        "4ODHL5": {
+            "energy": "13.323"
+        },
+        "YE9VYJ": {
+            "energy": "11.845"
+        },
+        "2D25R4": {
+            "energy": "21.399"
+        },
+        "3YYY62": {
+            "energy": "8.298"
+        },
+        "4K56AA": {
+            "energy": "1.753"
+        },
+        "UVIJQI": {
+            "energy": "1.463"
+        },
+        "TLNQBX": {
+            "energy": "19.378"
+        },
+        "EK17MZ": {
+            "energy": "10.416"
+        },
+        "NVGKLH": {
+            "energy": "0.435"
+        },
+        "Q04ZXI": {
+            "energy": "0.244"
+        },
+        "UD2QWO": {
+            "energy": "2.913"
+        },
+        "R366YY": {
+            "energy": "5.366"
+        },
+        "CTFQZY": {
+            "energy": "8.555"
+        },
+        "K2LE8O": {
+            "energy": "0.004"
+        },
+        "YL89N7": {
+            "energy": "7.581"
+        },
+        "P60NIQ": {
+            "energy": "0.51"
+        },
+        "K6YEGP": {
+            "energy": "1.81"
+        },
+        "LMBRXQ": {
+            "energy": "30.095"
+        },
+        "SLOQC1": {
+            "energy": "0.108"
+        },
+        "KN6VEY": {
+            "energy": "1.832"
+        },
+        "YX3796": {
+            "energy": "0.695"
+        },
+        "OIE62V": {
+            "energy": "3.965"
+        },
+        "7HUQ56": {
+            "energy": "125.232"
+        },
+        "JOAP3D": {
+            "energy": "11.35"
+        },
+        "63JD1H": {
+            "energy": "0.3"
+        },
+        "NEFNDC": {
+            "energy": "6.111"
+        },
+        "JD919F": {
+            "energy": "115.821"
+        },
+        "94E48S": {
+            "energy": "0.064"
+        },
+        "EJD6LA": {
+            "energy": "7.278"
+        },
+        "E6COXS": {
+            "energy": "4.734"
+        },
+        "VO814C": {
+            "energy": "11.372"
+        },
+        "HO3X19": {
+            "energy": "0.858"
+        },
+        "SIJ5IU": {
+            "energy": "3.309"
+        },
+        "1JKTP3": {
+            "energy": "2.306"
+        },
+        "RJZRCQ": {
+            "energy": "44.578"
+        },
+        "DB8Y3C": {
+            "energy": "29.98"
+        },
+        "SNEIZS": {
+            "energy": "2.882"
+        },
+        "L4UWH0": {
+            "energy": "0.499"
+        },
+        "0483XL": {
+            "energy": "5.549"
+        },
+        "CUB9Z2": {
+            "energy": "1.406"
+        },
+        "Y67CXV": {
+            "energy": "3.804"
+        },
+        "C243C9": {
+            "energy": "1.218"
+        },
+        "UOSPSM": {
+            "energy": "4.42"
+        },
+        "TD03FC": {
+            "energy": "0.234"
+        },
+        "3BFH8T": {
+            "energy": "6.136"
+        },
+        "IFWL4H": {
+            "energy": "0.678"
+        },
+        "GPEHZ2": {
+            "energy": "6.049"
+        },
+        "D0WHAM": {
+            "energy": "1.077"
+        },
+        "QS852W": {
+            "energy": "3.667"
+        },
+        "FSMHV5": {
+            "energy": "2.834"
+        },
+        "0V3ZWO": {
+            "energy": "2.923"
+        },
+        "PSG8K9": {
+            "energy": "0.456"
+        },
+        "VGY4HY": {
+            "energy": "1.516"
+        },
+        "D8BR98": {
+            "energy": "2.35"
+        },
+        "S7LYEB": {
+            "energy": "117.603"
+        },
+        "O12CAY": {
+            "energy": "0.622"
+        },
+        "WBS4W6": {
+            "energy": "4.578"
+        },
+        "NSEWLV": {
+            "energy": "33.757"
+        },
+        "845XF6": {
+            "energy": "0.703"
+        },
+        "AX544C": {
+            "energy": "0.196"
+        },
+        "TMNXZ4": {
+            "energy": "0.844"
+        },
+        "Z53X1N": {
+            "energy": "0.34"
+        },
+        "DF2KER": {
+            "energy": "2.15"
+        },
+        "I7G9KJ": {
+            "energy": "0.556"
+        },
+        "WUB8DQ": {
+            "energy": "16.874"
+        },
+        "6DC45Y": {
+            "energy": "4.552"
+        },
+        "HG3L8J": {
+            "energy": "0.854"
+        },
+        "AIJNLK": {
+            "energy": "11.39"
+        },
+        "M2G6BO": {
+            "energy": "9.249"
+        },
+        "DCW2AJ": {
+            "energy": "1.324"
+        },
+        "QIKG59": {
+            "energy": "1.828"
+        },
+        "ZDXIZR": {
+            "energy": "9.489"
+        },
+        "YZEUQW": {
+            "energy": "271.028"
+        },
+        "PLTFIN": {
+            "energy": "72.507"
+        },
+        "1KG4PG": {
+            "energy": "1.593"
+        },
+        "IBH8SO": {
+            "energy": "0.442"
+        },
+        "NJEK0N": {
+            "energy": "0.534"
+        },
+        "Z9FO3Z": {
+            "energy": "0.002"
+        },
+        "EW4RX1": {
+            "energy": "5.3"
+        },
+        "IW066S": {
+            "energy": "1.928"
+        },
+        "OR1104": {
+            "energy": "1.719"
+        },
+        "1COVYM": {
+            "energy": "1.031"
+        },
+        "JRHSKR": {
+            "energy": "1.085"
+        },
+        "VQTS7X": {
+            "energy": "7.012"
+        },
+        "OBSSCE": {
+            "energy": "0.493"
+        },
+        "TTHMIW": {
+            "energy": "2.606"
+        },
+        "JWEVKS": {
+            "energy": "26.677"
+        },
+        "AELJ1V": {
+            "energy": "97.555"
+        },
+        "1A8SMG": {
+            "energy": "11.386"
+        },
+        "7KI7Q6": {
+            "energy": "61.797"
+        },
+        "3LXRS5": {
+            "energy": "0.402"
+        },
+        "9KSW1G": {
+            "energy": "3.643"
+        },
+        "SW5G5V": {
+            "energy": "0.793"
+        },
+        "MOK7E2": {
+            "energy": "2.42"
+        },
+        "OW8Z7L": {
+            "energy": "0.944"
+        },
+        "R6CFOJ": {
+            "energy": "0.213"
+        },
+        "1AU0K9": {
+            "energy": "7.861"
+        },
+        "BTJM67": {
+            "energy": "20.538"
+        },
+        "C3GH3E": {
+            "energy": "1.701"
+        },
+        "436DGQ": {
+            "energy": "0.032"
+        },
+        "NS0UZU": {
+            "energy": "2.503"
+        },
+        "NXM9L9": {
+            "energy": "12.48"
+        },
+        "HOVK51": {
+            "energy": "9.844"
+        },
+        "QNRV8F": {
+            "energy": "0.002"
+        },
+        "P2J8ND": {
+            "energy": "0.536"
+        },
+        "1YLOOD": {
+            "energy": "0.028"
+        },
+        "RM6ACB": {
+            "energy": "0.738"
+        },
+        "DJVYB0": {
+            "energy": "2.066"
+        },
+        "CNV1FN": {
+            "energy": "0.244"
+        },
+        "886K79": {
+            "energy": "65.573"
+        },
+        "6LVDY5": {
+            "energy": "0.823"
+        },
+        "BD2W9V": {
+            "energy": "0.41"
+        },
+        "SIROC5": {
+            "energy": "19.276"
+        },
+        "D07NID": {
+            "energy": "2.917"
+        },
+        "5P7A89": {
+            "energy": "0.674"
+        },
+        "F84481": {
+            "energy": "1.295"
+        },
+        "SOBGLM": {
+            "energy": "2.236"
+        },
+        "9TJ7G9": {
+            "energy": "1.896"
+        },
+        "XJUNM4": {
+            "energy": "7.638"
+        },
+        "KMEZ6U": {
+            "energy": "13.803"
+        },
+        "TY5HEF": {
+            "energy": "5.339"
+        },
+        "E54ES5": {
+            "energy": "0.006"
+        },
+        "GWV8Y5": {
+            "energy": "4.785"
+        },
+        "TVKLZY": {
+            "energy": "10.895"
+        },
+        "2JNUGJ": {
+            "energy": "2.338"
+        },
+        "K9V4XK": {
+            "energy": "1.044"
+        },
+        "TDG0WT": {
+            "energy": "3.837"
+        },
+        "CJJJVH": {
+            "energy": "1.206"
+        },
+        "OSLSVC": {
+            "energy": "8.546"
+        },
+        "RS89CE": {
+            "energy": "0.597"
+        },
+        "O6IT2J": {
+            "energy": "0.21"
+        },
+        "DWEHXO": {
+            "energy": "0.457"
+        },
+        "BSHW9W": {
+            "energy": "0.74"
+        },
+        "AL7W3R": {
+            "energy": "10.52"
+        },
+        "ZUBCNV": {
+            "energy": "0.322"
+        },
+        "FPSHC0": {
+            "energy": "5.825"
+        },
+        "XW0OTJ": {
+            "energy": "0.002"
+        },
+        "Q05J1Z": {
+            "energy": "1.078"
+        },
+        "4OSSYY": {
+            "energy": "0.362"
+        },
+        "MBG07S": {
+            "energy": "0.382"
+        },
+        "CLJIML": {
+            "energy": "1.638"
+        },
+        "HWZ9PD": {
+            "energy": "13.352"
+        },
+        "EJ87IY": {
+            "energy": "2.279"
+        },
+        "DOHDJR": {
+            "energy": "13.781"
+        },
+        "ZGLC2I": {
+            "energy": "6.665"
+        },
+        "BU7ULU": {
+            "energy": "2.947"
+        },
+        "83N7JF": {
+            "energy": "1.223"
+        },
+        "GUJKXQ": {
+            "energy": "14.342"
+        },
+        "98LDTN": {
+            "energy": "2.349"
+        },
+        "ZS4XZ5": {
+            "energy": "4.222"
+        },
+        "FMSYO2": {
+            "energy": "1.243"
+        },
+        "TNW8CR": {
+            "energy": "1.233"
+        },
+        "MSL0CG": {
+            "energy": "8.676"
+        },
+        "PE5Y3M": {
+            "energy": "9.233"
+        },
+        "EI9D20": {
+            "energy": "1.697"
+        },
+        "NC5QAU": {
+            "energy": "0.002"
+        },
+        "L6FBUP": {
+            "energy": "0.969"
+        },
+        "30QDXR": {
+            "energy": "1.635"
+        },
+        "4CSADN": {
+            "energy": "5.969"
+        },
+        "UBUMWA": {
+            "energy": "3.138"
+        },
+        "KLNXL1": {
+            "energy": "0.863"
+        },
+        "F1OV6H": {
+            "energy": "1.458"
+        },
+        "IG06TV": {
+            "energy": "0.71"
+        },
+        "8XZK1Y": {
+            "energy": "2.777"
+        },
+        "LLXHU9": {
+            "energy": "6.187"
+        },
+        "R3CVFZ": {
+            "energy": "0.416"
+        },
+        "AXPE3X": {
+            "energy": "98.037"
+        },
+        "R31597": {
+            "energy": "2.273"
+        },
+        "8DW7DL": {
+            "energy": "1.089"
+        },
+        "KBGC0D": {
+            "energy": "0.805"
+        },
+        "DX30I3": {
+            "energy": "23.171"
+        },
+        "MHRAWP": {
+            "energy": "262.481"
+        },
+        "KA5DFG": {
+            "energy": "66.098"
+        },
+        "GTFT8Y": {
+            "energy": "3.42"
+        },
+        "C6K7HS": {
+            "energy": "0.324"
+        },
+        "G8YHRK": {
+            "energy": "0.281"
+        },
+        "HH76RD": {
+            "energy": "68.755"
+        },
+        "JYIF3W": {
+            "energy": "1.047"
+        },
+        "GWJK0V": {
+            "energy": "2.15"
+        },
+        "LPHEU0": {
+            "energy": "1.123"
+        },
+        "3BIKMM": {
+            "energy": "0.04"
+        },
+        "IR638X": {
+            "energy": "97.963"
+        },
+        "2NRPER": {
+            "energy": "0.852"
+        },
+        "TTYEK3": {
+            "energy": "6.118"
+        },
+        "W6MESD": {
+            "energy": "0.392"
+        },
+        "5TFHZX": {
+            "energy": "8.424"
+        },
+        "GO38DB": {
+            "energy": "2.294"
+        },
+        "N3B344": {
+            "energy": "3.764"
+        },
+        "3EKS65": {
+            "energy": "28.253"
+        },
+        "55GMTA": {
+            "energy": "2.239"
+        },
+        "123TZI": {
+            "energy": "0.796"
+        },
+        "ZXG1HE": {
+            "energy": "9.227"
+        },
+        "BFAB8I": {
+            "energy": "13.168"
+        },
+        "WTMYRO": {
+            "energy": "0.662"
+        },
+        "YXG1M0": {
+            "energy": "1.237"
+        },
+        "UULFFL": {
+            "energy": "9.687"
+        },
+        "4YW2G5": {
+            "energy": "0.002"
+        },
+        "LQRP79": {
+            "energy": "3.517"
+        },
+        "EL4Z2V": {
+            "energy": "1.557"
+        },
+        "5FG770": {
+            "energy": "1.516"
+        },
+        "09LG5M": {
+            "energy": "0.637"
+        },
+        "G38HVJ": {
+            "energy": "13.884"
+        },
+        "ALG3J6": {
+            "energy": "7.617"
+        },
+        "88RZ8R": {
+            "energy": "0.907"
+        },
+        "41U4EB": {
+            "energy": "0.31"
+        },
+        "6LT7L4": {
+            "energy": "4.163"
+        },
+        "XBSDK0": {
+            "energy": "1.117"
+        },
+        "42Q99X": {
+            "energy": "1.323"
+        },
+        "MRR78B": {
+            "energy": "1.259"
+        },
+        "5WB54L": {
+            "energy": "0.01"
+        },
+        "UFO3QJ": {
+            "energy": "2.737"
+        },
+        "I45QV7": {
+            "energy": "0.691"
+        },
+        "MT5CGF": {
+            "energy": "2.222"
+        },
+        "XA3T5B": {
+            "energy": "10.056"
+        },
+        "9TEUV2": {
+            "energy": "0.566"
+        },
+        "SZJ56I": {
+            "energy": "2.058"
+        },
+        "DB9Q99": {
+            "energy": "19.124"
+        },
+        "28RKXQ": {
+            "energy": "12.023"
+        },
+        "GQ1MWY": {
+            "energy": "0.794"
+        },
+        "TAPTFW": {
+            "energy": "1.741"
+        },
+        "JEH7ZR": {
+            "energy": "1.536"
+        },
+        "6YXVS3": {
+            "energy": "7.803"
+        },
+        "0U3JZL": {
+            "energy": "0.646"
+        },
+        "ASOV9M": {
+            "energy": "2.644"
+        },
+        "JJOHDS": {
+            "energy": "33.622"
+        },
+        "L0SDA1": {
+            "energy": "2.638"
+        },
+        "UXEHG3": {
+            "energy": "2.636"
+        },
+        "1WNESS": {
+            "energy": "0.862"
+        },
+        "P447UE": {
+            "energy": "0.749"
+        },
+        "LUVSXP": {
+            "energy": "1.649"
+        },
+        "7VC5LV": {
+            "energy": "0.26"
+        },
+        "6OUAPN": {
+            "energy": "2.486"
+        },
+        "7LORZ6": {
+            "energy": "1.975"
+        },
+        "I76R0P": {
+            "energy": "0.522"
+        },
+        "Q52PL7": {
+            "energy": "0.002"
+        },
+        "ZUTDPL": {
+            "energy": "6.442"
+        },
+        "JHOH57": {
+            "energy": "3.655"
+        },
+        "LP7OKF": {
+            "energy": "10.587"
+        },
+        "LPY0XW": {
+            "energy": "1.048"
+        },
+        "Y5SFYJ": {
+            "energy": "3.103"
+        },
+        "X9BCET": {
+            "energy": "23.805"
+        },
+        "F6DBXB": {
+            "energy": "2.117"
+        },
+        "SRH5WP": {
+            "energy": "0.4"
+        },
+        "K9DBVA": {
+            "energy": "17.244"
+        },
+        "XQAYKX": {
+            "energy": "3.532"
+        },
+        "DFL7TW": {
+            "energy": "4.453"
+        },
+        "0PMIQ3": {
+            "energy": "0.061"
+        },
+        "2AAJHU": {
+            "energy": "0.005"
+        },
+        "YJB3FA": {
+            "energy": "12.746"
+        },
+        "DSS1O2": {
+            "energy": "1.096"
+        },
+        "TYN7Z1": {
+            "energy": "55.501"
+        },
+        "Q40KQM": {
+            "energy": "10.826"
+        },
+        "58QXHN": {
+            "energy": "11.392"
+        },
+        "69CM1C": {
+            "energy": "0.281"
+        },
+        "ZCQ10P": {
+            "energy": "14.637"
+        },
+        "HP2MWK": {
+            "energy": "2.476"
+        },
+        "C2TQ4U": {
+            "energy": "0.414"
+        },
+        "VAHLWV": {
+            "energy": "3.934"
+        },
+        "7KZU9G": {
+            "energy": "0.325"
+        },
+        "08KFWF": {
+            "energy": "0.03"
+        },
+        "WYR4IN": {
+            "energy": "3.216"
+        },
+        "42W17I": {
+            "energy": "0.12"
+        },
+        "I5I5FK": {
+            "energy": "1.42"
+        },
+        "5EWDKY": {
+            "energy": "0.68"
+        },
+        "U2JDC1": {
+            "energy": "0.498"
+        },
+        "3Y95EK": {
+            "energy": "0.253"
+        },
+        "KM4CWM": {
+            "energy": "2.631"
+        },
+        "2ETZUS": {
+            "energy": "5.032"
+        },
+        "Y29U86": {
+            "energy": "1.436"
+        },
+        "8HYRH1": {
+            "energy": "2.689"
+        },
+        "FJ2QXD": {
+            "energy": "16.094"
+        },
+        "S6CX79": {
+            "energy": "5.695"
+        },
+        "TU2V0B": {
+            "energy": "7.884"
+        },
+        "LY226M": {
+            "energy": "1.343"
+        },
+        "G70TPQ": {
+            "energy": "62.796"
+        },
+        "305C6D": {
+            "energy": "1.942"
+        },
+        "BGDT4L": {
+            "energy": "1.888"
+        },
+        "KQP641": {
+            "energy": "0.783"
+        },
+        "63JVV7": {
+            "energy": "0.314"
+        },
+        "58YYE8": {
+            "energy": "22.141"
+        },
+        "CIPHWQ": {
+            "energy": "3.643"
+        },
+        "BS8IWN": {
+            "energy": "0.617"
+        },
+        "UBTNDK": {
+            "energy": "1.501"
+        },
+        "OJN8BN": {
+            "energy": "9.434"
+        },
+        "8TK2LJ": {
+            "energy": "6.787"
+        },
+        "XIUI2U": {
+            "energy": "2.652"
+        },
+        "3SFF28": {
+            "energy": "0.144"
+        },
+        "NZIXLE": {
+            "energy": "0.414"
+        },
+        "KN7099": {
+            "energy": "0.004"
+        },
+        "65YC06": {
+            "energy": "1.579"
+        },
+        "0W73FT": {
+            "energy": "1.628"
+        },
+        "0X1JKZ": {
+            "energy": "4.131"
+        },
+        "7VIDUI": {
+            "energy": "0.152"
+        },
+        "FCT9OT": {
+            "energy": "10.765"
+        },
+        "O4YDSB": {
+            "energy": "0.872"
+        },
+        "5U6CML": {
+            "energy": "24.334"
+        },
+        "CCOTAG": {
+            "energy": "2.541"
+        },
+        "SN2SUM": {
+            "energy": "3.052"
+        },
+        "OT80VC": {
+            "energy": "19.426"
+        },
+        "TXPA7S": {
+            "energy": "2.82"
+        },
+        "9AY7UZ": {
+            "energy": "0.457"
+        },
+        "X68ZY4": {
+            "energy": "5.953"
+        },
+        "Q0NH9F": {
+            "energy": "1.054"
+        },
+        "PWEI7W": {
+            "energy": "5.407"
+        },
+        "NGSQ2P": {
+            "energy": "10.705"
+        },
+        "COW1FH": {
+            "energy": "1.537"
+        },
+        "YA00NZ": {
+            "energy": "8.523"
+        },
+        "VTQN3Y": {
+            "energy": "0.994"
+        },
+        "GT1Q9F": {
+            "energy": "5.814"
+        },
+        "XECQ49": {
+            "energy": "1.374"
+        },
+        "XO6VB0": {
+            "energy": "11.245"
+        },
+        "Q52RPM": {
+            "energy": "0.795"
+        },
+        "SR3MA5": {
+            "energy": "7.016"
+        },
+        "UR67CQ": {
+            "energy": "0.002"
+        },
+        "6NTJU2": {
+            "energy": "0.506"
+        },
+        "S53F5T": {
+            "energy": "19.808"
+        },
+        "UAW8OZ": {
+            "energy": "1.141"
+        },
+        "5SVUIT": {
+            "energy": "0.721"
+        },
+        "EXX3UG": {
+            "energy": "1.684"
+        },
+        "74UNBB": {
+            "energy": "2.091"
+        },
+        "BG7BZN": {
+            "energy": "1.042"
+        },
+        "50UO9R": {
+            "energy": "2.422"
+        },
+        "81QB1S": {
+            "energy": "11.547"
+        },
+        "2L36JA": {
+            "energy": "5.072"
+        },
+        "K4G20U": {
+            "energy": "0.002"
+        },
+        "HX5KZ4": {
+            "energy": "1.309"
+        },
+        "QEZJTA": {
+            "energy": "0.412"
+        },
+        "8D6HOD": {
+            "energy": "72.217"
+        },
+        "089AE6": {
+            "energy": "3.122"
+        },
+        "GI1VIW": {
+            "energy": "68.058"
+        },
+        "8KG6Q5": {
+            "energy": "255.077"
+        },
+        "M7VU52": {
+            "energy": "0.665"
+        },
+        "WUAAD5": {
+            "energy": "0.783"
+        },
+        "GEBJQ2": {
+            "energy": "21.225"
+        },
+        "N6X5GB": {
+            "energy": "0.54"
+        },
+        "TKWLM8": {
+            "energy": "5.316"
+        },
+        "C3BODE": {
+            "energy": "2.252"
+        },
+        "RYPE11": {
+            "energy": "1.36"
+        },
+        "B790EP": {
+            "energy": "0.312"
+        },
+        "2WG34C": {
+            "energy": "6.664"
+        },
+        "8DT9IY": {
+            "energy": "2.741"
+        },
+        "AW8SNZ": {
+            "energy": "1.113"
+        },
+        "Y5LCXW": {
+            "energy": "1.18"
+        },
+        "8EAWXW": {
+            "energy": "316.436"
+        },
+        "1HEJWJ": {
+            "energy": "1.666"
+        },
+        "GNXME0": {
+            "energy": "3.112"
+        },
+        "N5BO1D": {
+            "energy": "0.309"
+        },
+        "HHUNTA": {
+            "energy": "0.536"
+        },
+        "1CIRX6": {
+            "energy": "0.422"
+        },
+        "36M3JQ": {
+            "energy": "5.175"
+        },
+        "VEY2GM": {
+            "energy": "20.712"
+        },
+        "HYT46P": {
+            "energy": "0.595"
+        },
+        "P94TWB": {
+            "energy": "1.291"
+        },
+        "5YWZZR": {
+            "energy": "0.52"
+        },
+        "KBH602": {
+            "energy": "0.861"
+        },
+        "CKW7EH": {
+            "energy": "24.743"
+        },
+        "5EG4EJ": {
+            "energy": "4.813"
+        },
+        "DAB2IW": {
+            "energy": "28.031"
+        },
+        "NU3JK1": {
+            "energy": "37.463"
+        }
+    }
+}

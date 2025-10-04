@@ -1,0 +1,25 @@
+{
+  "ops": {
+    "conv-bn-relu": {
+      "n": 437,
+      "seeds": [
+        "seed_0.pth",
+        "seed_1.pth",
+        "seed_2.pth",
+        "seed_3.pth",
+        "seed_4.pth"
+      ]
+    }
+  },
+  "feats": [
+    "log_OPS",
+    "log_params",
+    "log_acts",
+    "stride_inv",
+    "CIN",
+    "COUT",
+    "KERNEL_SIZE",
+    "STRIDES"
+  ],
+  "ensemble_size": 5
+}

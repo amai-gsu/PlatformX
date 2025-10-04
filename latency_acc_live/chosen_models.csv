@@ -1,0 +1,5 @@
+name,path,accuracy,profile,is_baseline,latency_p50_ms,latency_p90_ms,latency_mean_ms,latency_std_ms,throughput_ips,backend,ts_csv
+EnergyNet_10107_109_225,/home/xiaolong/Downloads/GreenAuto/model_search_results/models/EnergyNet_10107_109_225.tflite,0.9218,0_1,False,189.156,190.8478,189.35519211822657,2.6674473540701618,5.286641713717778,CPU,latency_acc_live/EnergyNet_10107_109_225_inference_time.csv
+EnergyNet_8401_2288_145,/home/xiaolong/Downloads/GreenAuto/model_search_results/models/EnergyNet_8401_2288_145.tflite,0.8309,0_1,False,2.813,3.038,2.8676282828282824,0.18744274602786168,355.4923569143263,CPU,latency_acc_live/EnergyNet_8401_2288_145_inference_time.csv
+EnergyNet_8857_2744_145,/home/xiaolong/Downloads/GreenAuto/model_search_results/models/EnergyNet_8857_2744_145.tflite,0.8105,0_1,False,1.574,1.662,1.5842551724137932,0.09073454620785287,635.3240152477763,CPU,latency_acc_live/EnergyNet_8857_2744_145_inference_time.csv
+MobileNetV2,/home/xiaolong/Downloads/mobilenet-v2-tflite-1-0-224-v1/MobileNetV2.tflite,,mobilenet,True,26.239,28.8511,26.803825688073395,1.7676565154948274,38.11120850642174,CPU,latency_acc_live/MobileNetV2_inference_time.csv

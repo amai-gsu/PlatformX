@@ -1,0 +1,9 @@
+{
+  "picks": {
+    "best_accuracy": "EnergyNet_10107_109_225",
+    "best_latency": "EnergyNet_8857_2744_145",
+    "best_balance": "EnergyNet_8401_2288_145"
+  },
+  "baseline": "MobileNetV2",
+  "min_acc_for_latency": 0.8
+}
