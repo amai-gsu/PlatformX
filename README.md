@@ -12,8 +12,7 @@ This repository accompanies the paper:
 ## Key Features
 
 - **Model generation & search space design**
-- **Accuracy proxies** (zero-cost / probe-based)
-- **Energy prediction** (LitePred-style, RF/MLP-based, etc.)
+- **Transferable energy prediction** (LitePred-style, RF/MLP-based, etc.)
 - **Multi-objective NAS algorithms**  
   - GD-Pareto  
   - Bayesian Optimization  
@@ -21,8 +20,7 @@ This repository accompanies the paper:
   - UCB  
   - Random  
 - **On-device inference & Monsoon Power Monitor measurement**
-- **Latency + accuracy live profiling**
-- **Carbon-aware evaluation**
+- **Latency + enercy live profiling**
 
 ---
 
