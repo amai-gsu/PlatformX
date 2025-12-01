@@ -131,6 +131,12 @@ This script:
 - Outputs latency, power, energy CSVs  
 
 ---
+## 🎬 Demo Video
+
+Watch a demo of PlatformX in action:
+
+[PlatformX Demo Video](https://github.com/amai-gsu/PlatformX/releases/download/v1.0-demo/your_video_filename.mp4)
+
 
 ## Citation
 
