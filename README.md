@@ -133,9 +133,7 @@ This script:
 ---
 ## 🎬 Demo Video
 
-Watch a demo of PlatformX in action:
-
-[PlatformX Demo Video](https://github.com/amai-gsu/PlatformX/releases/download/v1.0-demo/end2end.demo.mp4)
+![PlatformX Demo](./demo/demo.gif)
 
 
 ## Citation
