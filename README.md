@@ -70,15 +70,8 @@ PlatformX/
 
 ---
 
-## Installation
+## Requirements
 
-```
-conda create -n platformx python=3.10
-conda activate platformx
-pip install -r requirements.txt
-```
-
-Requirements:
 - PyTorch  
 - TensorFlow + TFLite  
 - Monsoon Power API  
@@ -129,11 +122,7 @@ python model_search/Model_search_compare_mn.py \
 ## Real-Device Power Measurement (Android + Monsoon)
 
 ```
-python monsoon/server_orchestrator_phone.py \
-    --models_dir results/tflite_models \
-    --device_serial <ANDROID_SERIAL> \
-    --backend cpu \
-    --out_dir results/power_measurement
+python monsoon/energy_prifiling.py
 ```
 
 This script:
@@ -142,18 +131,6 @@ This script:
 - Collects high-frequency power traces with Monsoon HVPM  
 - Aligns timestamps  
 - Outputs latency, power, energy CSVs  
-
----
-
-## Reproducing Paper Results
-
-Use:
-- `model_search/` for NAS
-- `prediction/` for predictors
-- `monsoon/` for real-device power measurement
-- `prediction_results/` and `results/` for logs & plots
-
-You can reproduce all plots and tables from the paper directly from this pipeline.
 
 ---
 
@@ -169,14 +146,3 @@ You can reproduce all plots and tables from the paper directly from this pipelin
 ```
 
 ---
-
-## Contact
-
-- Xiaolong Tu — xiaolongtu@gsu.edu  
-- Prof. Haoxin Wang — hwang135@gsu.edu  
-
----
-
-## License
-
-MIT License. See `LICENSE` for details.
